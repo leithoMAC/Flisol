@@ -1,0 +1,109 @@
+
+title{
+     background-color: rgba(245, 245, 245, 0.4);
+}
+body{
+   
+    background: #665ED3 url(../img/fondito.jpg) no-repeat center center;
+    background-size: 100% 100%;
+        
+  
+	
+}
+
+.contorno {
+    
+    border: 3px dashed #119cd7;
+    padding: 20px;
+}
+
+body{
+   
+    margin-top: 5px;;
+}
+
+
+.espacio {
+    
+    padding: 5px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+
+}
+
+
+
+.color-b {
+   
+    background: #5e3e81;
+}
+
+.color-js {
+    
+    background: #faa306;
+}
+
+.color-css3 {
+    color:black;
+    background: #0071bf;
+}
+
+.color-html5 {
+    color:black;
+    background: #fe4c1e;
+}
+
+.sp-bar {
+   
+    margin-top: 50px;
+}
+
+footer {
+  background-color: rgba(245, 245, 245, 0.4);
+    color: antiquewhite;
+    padding: 20px;
+}
+
+section{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.thumbnail {
+    
+    border: 3px solid blue;
+    background: #CCE5EE;
+}
+.navbar-header{
+    color: black;
+}
+.navbar-custom {
+    color: #FFFFFF;
+    
+}
+a {
+    color: black;
+}
+.navbar span{
+    color:black;
+}
+.navbar{
+    
+      background-color: rgba(245, 245, 245, 0.4);
+    margin: 1px;
+    margin-top: -10px;
+   
+}
+.fondo {
+   background:#69330F;
+   
+    margin-top: 30px;
+    border: 3px solid black;
+    
+}
+
+.container{
+    color:black;
+}
+
